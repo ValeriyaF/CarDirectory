@@ -1,0 +1,26 @@
+PODS:
+  - Reusable (4.0.5):
+    - Reusable/Storyboard (= 4.0.5)
+    - Reusable/View (= 4.0.5)
+  - Reusable/Storyboard (4.0.5)
+  - Reusable/View (4.0.5)
+  - SQLite.swift (0.11.5):
+    - SQLite.swift/standard (= 0.11.5)
+  - SQLite.swift/standard (0.11.5)
+
+DEPENDENCIES:
+  - Reusable (~> 4.0)
+  - SQLite.swift (~> 0.11.5)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Reusable
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  Reusable: 188be1a54ac0691bc66e5bb24ec6eb91971b315b
+  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
+
+PODFILE CHECKSUM: 0fd817160b489e6c583c87425e7f9e8e680aca89
+
+COCOAPODS: 1.6.0
